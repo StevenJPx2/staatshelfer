@@ -1,7 +1,7 @@
 {
   "name": "staatshelfer",
   "version": "0.0.0",
-  "description": "",
+  "description": "Light wrapper around zustand to make state management in React easier",
   "repository": "StevenJPx2/staatshelfer",
   "keywords": [
     "state",
