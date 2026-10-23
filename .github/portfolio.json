@@ -1,0 +1,15 @@
+{
+  "body": [
+    "A light wrapper over **Zustand** that **generates the usual setter and reset actions** for each store key. `defineStore` creates them and `selectFromStore` picks them out, with **autocomplete** on the store keys.",
+    "Every key gets `setKey` and `resetKey`, and array keys also get `pushToKey` and `unshiftToKey`. Defaults are **checked against your store type**."
+  ],
+  "areas": [
+    "developer-tools"
+  ],
+  "technologies": {
+    "add": [
+      "react",
+      "zustand"
+    ]
+  }
+}
